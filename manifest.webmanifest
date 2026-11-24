@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Minha Escala",
+  "short_name": "Minha Escala",
+  "description": "Calendário pessoal para escala 24x48, DEJEM, DELEGA e bicos.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#080B12",
+  "background_color": "#080B12",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
